@@ -1,13 +1,11 @@
 #include <iostream>
-using namespace std;      //Input Output device activated along with the namespace "std::..."
+using namespace std;  //Input Output device activated along with the namespace "std::..."
 
-const int rows = 5;       // Bounds of the rows on the grid (0-4)
-const int col = 5;        // Bounds of the columns on the grid. (0-4)
-void vals(int);           //
-
-int main(){
-  for (int row = 0; row < 5; row++)     // Counter/Loop
+int arrayU[5][5];
+for (int=0; i<5; i++)
+  for (int=0; j<5; j++)
   {
+    cout << "Enter a Value"
+    cin >> arrayU[5][5]
     
   }
-}
